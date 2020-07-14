@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+😄: he/him/himself
 📫: andywluo@gmail.com
+🌐: andyluo.com
+⚡: Loves corgis
+
 <!--
 **GreenRabite/GreenRabite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
