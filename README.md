@@ -1,8 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
+## Fun Facts
 😄: he/him/himself
+
 📫: andywluo@gmail.com
+
 🌐: andyluo.com
+
 ⚡: Loves corgis
 
 <!--
