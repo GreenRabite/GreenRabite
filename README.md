@@ -5,7 +5,7 @@
 
 📫: andywluo@gmail.com
 
-🌐: andyluo.com
+🌐: andy-luo.com
 
 ⚡: Loves corgis
 
